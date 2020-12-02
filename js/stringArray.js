@@ -1,6 +1,8 @@
-let fruits = ("Robin Singh");
+function sarasas (string)
 
-let template = fruits.split(', ');
+let sarasas = ("Robin Singh");
+
+let template = sarasas.split(', ');
 console.log(template);
-console.log(fruits)
+console.log(sarasas)
 sarasas ("Robin Singh");
